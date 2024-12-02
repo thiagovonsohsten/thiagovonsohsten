@@ -1,6 +1,6 @@
 # Thiago von Sohsten
 
-**`FullStack Developer`**
+**`Sotware Enginner`**
 
 Hi there! 👋 I'm Thiago de Lima von Sohsten, a passionate Computer Science student currently in my 5th semester at César School. Over the course of my academic journey, I have honed my skills in software development, focusing on creating impactful solutions that combine functionality with user-friendly designs.
 
